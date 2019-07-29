@@ -15,9 +15,9 @@
       "description": "Treemap visualization",
       "iconUrl": "https://raw.githubusercontent.com/googledatastudio/experimental-visualizations/viz/treemap/src/treemap.png",
       "resource": {
-        "js": "gs://content-immersion-dev/treemap/index.js",
-        "config": "gs://content-immersion-dev/treemap/index.json",
-        "css": "gs://content-immersion-dev/treemap/index.css"
+        "js": "gs://content-immersion-graphic/treemap/index.js",
+        "config": "gs://content-immersion-graphic/treemap/index.json",
+        "css": "gs://content-immersion-graphic/treemap/index.css"
       }
     }
   ]
