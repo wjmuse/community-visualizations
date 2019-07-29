@@ -1,0 +1,25 @@
+{
+  "name": "First Visualizations",
+  "organization": "MyOrg",
+  "description": "My first visualization package.",
+  "logoUrl": "https://logo",
+  "organizationUrl": "https://url",
+  "supportUrl": "https://url",
+  "privacyPolicyUrl": "https://url",
+  "termsOfServiceUrl": "https://url",
+  "packageUrl": "https://url",
+  "supportUrl": "https://url",
+  "devMode": true,
+  "components": [
+    {
+      "name": "bar-example",
+      "description": "My first Community Visualization",
+      "iconUrl": "https://url",
+      "resource": {
+        "js": "gs://content-immersion-graphic/bar-example/myViz.js",
+        "config": "gs://content-immersion-graphic/bar-example/myViz.json",
+        "css": "gs://content-immersion-graphic/bar-example/myViz.css"
+      }
+    }
+  ]
+}
